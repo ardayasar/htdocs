@@ -1,0 +1,848 @@
+{
+    "data": [
+        {
+            "date": "03 Mayıs 2021",
+            "news": "21-22 Eğitim-Öğretim Yılı Yabancı Uyruklu Öğrenci (YÖS) Kayıtları"
+        },
+        {
+            "date": "01 Temmuz 2021",
+            "news": "21-22 Güz YY yeni Ders/yeni Prog./Prog. değişiklik önerileri Son Gün"
+        },
+        {
+            "date": "10 Temmuz 2021",
+            "news": "21-22 Güz YY Kurumlararası (Genel Not Ortalaması ile) Yatay Geçiş Başvuru Başlangıç"
+        },
+        {
+            "date": "15 Temmuz 2021",
+            "news": "Demokrasi ve Mili Birlik Günü"
+        },
+        {
+            "date": "19 Temmuz 2021",
+            "news": "Bayram Arifesi"
+        },
+        {
+            "date": "20 Temmuz 2021 - 23 Temmuz 2021",
+            "news": "Kurban Bayramı"
+        },
+        {
+            "date": "01 Ağustos 2021",
+            "news": "21-22 Güz YY Merkezi Taban Puan ile Yatay Geçiş ve Kurum İçi Yatay Geçiş Başvuruları Başlangıç"
+        },
+        {
+            "date": "04 Ağustos 2021",
+            "news": "21-22 Güz/ Güz- Bahar DSÜ görevlendirme Son Gün 21-22 Güz YY Ders Prog.UNITIME giriş Başlangıç"
+        },
+        {
+            "date": "10 Ağustos 2021",
+            "news": "21-22 Güz YY Ders Prog.UNITIME giriş Bitiş"
+        },
+        {
+            "date": "15 Ağustos 2021",
+            "news": "21-22 Güz YY Yatay Geçiş Başvuruları (Kurumlararası Yatay Geçiş, Merkezi Taban Puan ile Yatay Geçiş, Kurum içi Yatay Geçiş) Bitiş"
+        },
+        {
+            "date": "19 Ağustos 2021",
+            "news": "21-22 Yabancı Dil Yeterlilik Sınav (YDYS) (Sözlü ve Yazılı) i)Yatay Geçiş ile başvuran öğrenciler için"
+        },
+        {
+            "date": "23 Ağustos 2021",
+            "news": "21-22 Güz YY Ders Prog. ORİON giriş Başlangıç"
+        },
+        {
+            "date": "27 Ağustos 2021",
+            "news": "21-22 Güz YY Ders Prog. ORİON giriş Bitiş"
+        },
+        {
+            "date": "30 Ağustos 2021",
+            "news": "Zafer Bayramı"
+        },
+        {
+            "date": "31 Ağustos 2021",
+            "news": "21-22 Güz YY Kurum İçi ve Merkezi yerleştirme puanına göre Yatay Geçiş Başvuruları değerlendirme Sonuçları ilanı ve Asil Kayıt Başlangıç"
+        },
+        {
+            "date": "31 Ağustos 2021",
+            "news": "21-22 Güz YY Kurumlararası(GNO) ile Yatay Geçiş Başvuru değerlendirme Sonuç ilanı ve Asil Kayıt Başlangıç"
+        },
+        {
+            "date": "31 Ağustos 2021",
+            "news": "21-22 Güz YY Çift Anadal ve Yandal Programına Başvuru Başlangıç"
+        },
+        {
+            "date": "6 Eylül 2021",
+            "news": "21-22 Güz YY merkezi yerleştirme puanına göre Yatay Geçiş, Kurum içi Yatay Geçiş, Kurumlararası (GNO) Yatay Geçiş Asil Kayıt Bitiş"
+        },
+        {
+            "date": "07 Eylül 2021 - 10 Eylül 2021",
+            "news": "21-22 Güz YY merkezi yerleştirme puanına göre Yatay Geçiş, Kurum içi Yatay Geçiş, Kurumlararası (GNO) Yatay Geçiş Yedek Kayıt Başlangıç ve Bitişi"
+        },
+        {
+            "date": "08 Eylül 2021",
+            "news": "21-22 Eğitim-Öğretim yılı başında öğretim dili İngilizce olan Lisans programlarına yeni kayıt yaptıran öğrenciler için Yabancı Dil Seviye Tespit Sınavı (YDSTS)"
+        },
+        {
+            "date": "09 Eylül 2021",
+            "news": "21-22 Güz YY Öğretim dili Türkçe olan Önlisans ve Lisans Programlarına yeni kayıt yaptıran öğrenciler için Yabancı Dil Muafiyet Sınavı"
+        },
+        {
+            "date": "10 Eylül 2021",
+            "news": "21-22 Yabancı Dil Yeterlilik Sınavı (YDYS)"
+        },
+        {
+            "date": "10 Eylül 2021",
+            "news": "21-22 ORİON Güz YY Başlangıç"
+        },
+        {
+            "date": "10 Eylül 2021",
+            "news": "21-22 Güz YY Çift Anadal ve Yandal Programına Başvuru Bitiş"
+        },
+        {
+            "date": "13 Eylül 2021",
+            "news": "21-22 Güz YY Kayıt Yenileme ve Ders Kaydı Başlangıç"
+        },
+        {
+            "date": "13 Eylül 2021",
+            "news": "21-22 Güz YY Atatürk İlkeleri ve İnkılap Tarihi I-II Muafiyet Sınavı"
+        },
+        {
+            "date": "14 Eylül 2021 ",
+            "news": "21-22 Güz YY Çift Anadal ve Yandal Programına Başvuran öğrenciler için Yabancı Dil Yeterlilik Sınavı (YDYS) (Sözlü ve Yazılı)"
+        },
+        {
+            "date": "14 Eylül 2021 ",
+            "news": "21-22 Güz YY Türkçe I-II Muafiyet Sınavı"
+        },
+        {
+            "date": "16 Eylül 2021",
+            "news": "21-22 Güz YY Çift Anadal ve Yandal Başvuru değerlendirme Sonuçlarının ÖİDB’ye bildirilmesi"
+        },
+        {
+            "date": "17 Eylül 2021",
+            "news": "21-22 Güz YY Çift Anadal ve Yandal Programına Başvuru Sonuç ilanı ve Asil Kayıt Başlangıç"
+        },
+        {
+            "date": "20 Eylül 2021",
+            "news": "21-22 Güz YY Ders Başlangıç"
+        },
+        {
+            "date": "20 Eylül 2021",
+            "news": "21-22 Güz YY İngilizce Hazırlık Sınıfı Ders Başlangıç"
+        },
+        {
+            "date": "20 Eylül 2021",
+            "news": "21-22 Güz YY Çift Anadal ve Yandal Programına Asil Kayıt Bitiş"
+        },
+        {
+            "date": "21 Eylül 2021",
+            "news": "21-22 Güz YY Çift Anadal ve Yandal Programına Yedek Kayıt Başlangıç"
+        },
+        {
+            "date": "22 Eylül 2021",
+            "news": "21-22 Üniversite Açılış Töreni"
+        },
+        {
+            "date": "22 Eylül 2021",
+            "news": "21-22 Güz YY Çift Anadal ve Yandal Programına Yedek Kayıt Bitiş"
+        },
+        {
+            "date": "01 Ekim 2021",
+            "news": "21-22 Güz YY Kayıt Yenileme ve Ders Kaydı Son Gün"
+        },
+        {
+            "date": "11 Ekim 2021",
+            "news": "21-22 Güz YY Ders Ekleme-Ders Bırakma ve Danışman Onayı Başlangıç"
+        },
+        {
+            "date": "15 Ekim 2021",
+            "news": "21-22 Güz YY Ders Ekleme-Ders Bırakma Bitiş"
+        },
+        {
+            "date": "18 Ekim 2021",
+            "news": "21-22 Güz YY Ders Ekleme-Ders Bırakma Danışman Onayı Son Gün"
+        },
+        {
+            "date": "28 Ekim 2021",
+            "news": "Cumhuriyet Bayramı (Öğlen 12:00’ den itibaren)"
+        },
+        {
+            "date": "29 Ekim 2021",
+            "news": "Cumhuriyet Bayramı"
+        },
+        {
+            "date": "05 Kasım 2021",
+            "news": "21-22 Bahar YY yeni Ders/yeni Prog./Prog. değişiklik önerileri Son Gün"
+        },
+        {
+            "date": "22 Kasım 2021",
+            "news": "21-22 Güz YY Dersten Çekilme ve Danışman Onayı Başlangıç"
+        },
+        {
+            "date": "22 Kasım 2021",
+            "news": "21-22 Güz YY Yarıyıl Sonu Sınav Prog. UNITIME giriş Başlangıç"
+        },
+        {
+            "date": "26 Kasım 2021",
+            "news": "21-22 Güz YY Dersten Çekilme Bitiş"
+        },
+        {
+            "date": "26 Kasım 2021",
+            "news": "21-22 Güz YY Yarıyıl Sonu Sınav Prog. UNITIME giriş Bitiş"
+        },
+        {
+            "date": "29 Kasım 2021",
+            "news": "21-22 Güz YY Dersten Çekilme Danışman Onayı Son Gün"
+        },
+        {
+            "date": "29 Kasım 2021",
+            "news": "Ek Süre Hakkı Kazanmış Önlisans ve Lisans Öğrencileri için GÜZ Yarıyılı (1. Yarıyıl) Sonu 1.ve 3. Sınav Hakkı Başvuruları Başlangıç"
+        },
+        {
+            "date": "03 Aralık 2021",
+            "news": "Ek Süre Hakkı Kazanmış Önlisans ve Lisans Öğrencileri için GÜZ Yarıyılı (1. Yarıyıl) Sonu 1.ve 3. Sınav Hakkı Başvuruları Bitiş"
+        },
+        {
+            "date": "10 Aralık 2021",
+            "news": "21-22 Güz YY Kayıt Dondurma İstekleri Son Gün 21-22 Güz YY Sınav Prog. ORİON giriş Başlangıç"
+        },
+        {
+            "date": "17 Aralık 2021",
+            "news": "21-22 Güz YY Sınav Prog. ORİON giriş Bitiş"
+        },
+        {
+            "date": "17 Aralık 2021",
+            "news": "21-22 Önlisans - Lisans kontenjan önerilerinin Rektörlüğe arzı Son Gün ( ÖİDB- Otomasyon Birimi)"
+        },
+        {
+            "date": "24 Aralık 2021",
+            "news": "21-22 Güz YY Derslerin Bitişi"
+        },
+        {
+            "date": "24 Aralık 2021",
+            "news": "21-22 Güz YY YDB Hazırlık Sınıfı Güz YY Ders Bitiş"
+        },
+        {
+            "date": "25 Aralık 2021",
+            "news": "21-22 Güz YY Yarıyıl Sonu Sınavları Başlangıç"
+        },
+        {
+            "date": "25 Aralık 2021",
+            "news": "21-22 Bahar YY ders Prog. UNITIME giriş Başlangıç"
+        },
+        {
+            "date": "25 Aralık 2021",
+            "news": "Ek Süre Hakkı Kazanmış Önlisans ve Lisans Öğrencileri için Güz Yarıyılı (1.Yarıyıl) Sonu 1. Ve 3. Sınav Hakkı Başlangıç"
+        },
+        {
+            "date": "28 Aralık 2021 - 29 Aralık 2021",
+            "news": "21-22 Güz YY Yabancı Dil Yeterlilik Sınavı (YDYS)"
+        },
+        {
+            "date": "29 Aralık 2021",
+            "news": "21-22 Bahar YY DSÜ görevlendirme Son Gün"
+        },
+        {
+            "date": "29 Aralık 2021",
+            "news": "Ek Süre Hakkı Kazanmış Önlisans ve Lisans Öğrencileri için GÜZ Yarıyılı (1. Yarıyıl) Sonu 1.ve 3. Sınav Bitiş"
+        },
+        {
+            "date": "01 Ocak 2022",
+            "news": "YILBAŞI"
+        },
+        {
+            "date": "07 Ocak 2022",
+            "news": "21-22 Güz YY Yarıyıl Sonu Sınavları Bitiş"
+        },
+        {
+            "date": "07 Ocak 2022",
+            "news": "21-22 Bahar YY ders Prog. UNITIME giriş Bitiş"
+        },
+        {
+            "date": "08 Ocak 2022rtesi",
+            "news": "21-22 Güz YY Yarıyıl Sonu Sınavları Not Girişi Son Gün"
+        },
+        {
+            "date": "10 Ocak 2022",
+            "news": "21-22 Güz YY Yarıyıl Sonu Sınavları Notu ve GNO İlan"
+        },
+        {
+            "date": "10 Ocak 2022",
+            "news": "21-22 Bahar YY merkezi yerleştirme puanına göre Yatay Geçiş, Kurum içi Yatay Geçiş, Kurumlararası (GNO) Yatay Geçiş Başvuru Başlangıç"
+        },
+        {
+            "date": "10 Ocak 2022",
+            "news": "21-22 Bahar YY Çift Anadal ve Yandal Programına Başvuru Başlangıç 21-22 Güz YY Başarı Notu İtirazları Başlangıç"
+        },
+        {
+            "date": "11 Ocak 2022",
+            "news": "21-22 Güz YY Başarı Notu İtirazları Bitiş"
+        },
+        {
+            "date": "11 Ocak 2022",
+            "news": "21-21 Güz YY Başarı Notu İtirazları ÖİDB Teslimi Başlangıç"
+        },
+        {
+            "date": "14 Ocak 2022",
+            "news": "21-22 Güz YY Başarı Notu İtirazları ÖİDB Teslimi Bitiş"
+        },
+        {
+            "date": "14 Ocak 2022",
+            "news": "21-22 Bahar YY Ders Prog. girişi ORİON Başlangıç"
+        },
+        {
+            "date": "15 Ocak 2022",
+            "news": "21-22 Güz YY Bütünleme Sınavları Başlangıç"
+        },
+        {
+            "date": "20 Ocak 2022",
+            "news": "21-22 Güz YY Bütünleme Sınavları Bitiş"
+        },
+        {
+            "date": "22 Ocak 2022",
+            "news": "21-22 Güz YY Bütünleme Sınavları Not Girişi Son gün"
+        },
+        {
+            "date": "24 Ocak 2022",
+            "news": "21-22 Güz YY Bütünleme Sınavları Notlarının ve GNO'ların İlanı 21-22 Güz YY Bütünleme Başarı Notu İtirazları Başlangıç"
+        },
+        {
+            "date": "24 Ocak 2022",
+            "news": "21-22 Güz YY Sonu Tek Ders Sınavı Başvuru Başlangıç"
+        },
+        {
+            "date": "24 Ocak 2022",
+            "news": "21-22 Bahar YY Çift Anadal ve Yandal Programına Başvuru Bitiş"
+        },
+        {
+            "date": "25 Ocak 2022",
+            "news": "21-22 Güz YY Bütünleme Başarı Notu İtirazları Bitiş"
+        },
+        {
+            "date": "25 Ocak 2022",
+            "news": "21-22 Güz YY Başarı Notu İtirazları ÖİDB Teslimi Başlangıç"
+        },
+        {
+            "date": "25 Ocak 2022 ",
+            "news": "21-22 Bahar YY merkezi yerleştirme puanına göre Yatay Geçiş, Kurum içi Yatay Geçiş, Kurumlararası (GNO) Yatay Geçiş Başvuru Bitiş"
+        },
+        {
+            "date": "27 Ocak 2022",
+            "news": "Yabancı Dil Yeterlilik Sınavı (YDYS) (Sözlü)"
+        },
+        {
+            "date": "27 Ocak 2022",
+            "news": "21-22 Bahar YY merkezi yerleştirme puanına göre Yatay Geçiş, Kurum içi Yatay Geçiş, Kurumlararası (GNO)"
+        },
+        {
+            "date": "27 Ocak 2022",
+            "news": "21-22 Bahar YY Çift Anadal ve Yandal Programına Başvuran öğrenciler için"
+        },
+        {
+            "date": "28 Ocak 2022",
+            "news": "21-22 Güz YY Sonu Tek Ders Sınavı Başvuru Bitiş 21-22 Bahar YY Ders Prog.girişi ORİON Bitiş"
+        },
+        {
+            "date": "28 Ocak 2022",
+            "news": "21-22 Güz YY Başarı Notu İtirazları ÖİDB Teslimi Bitiş"
+        },
+        {
+            "date": "28 Ocak 2022",
+            "news": "Yabancı Dil Yeterlilik Sınavı (YDYS) (Yazılı)"
+        },
+        {
+            "date": "29 Ocak 2022",
+            "news": "21-22 ORİON Güz YY Bitiş"
+        },
+        {
+            "date": "30 Ocak 2022",
+            "news": "21-22 ORİON Bahar YY Başlangıç"
+        },
+        {
+            "date": "07 Şubat 2022",
+            "news": "21-22 Bahar YY Kayıt Yenileme ve Ders Kaydı Başlangıç"
+        },
+        {
+            "date": "10 Şubat 2022",
+            "news": "21-22 Güz YY Sonu Tek Ders Sınav Günü"
+        },
+        {
+            "date": "14 Şubat 2022",
+            "news": "21-22 Bahar YY Derslerin Başlangıcı"
+        },
+        {
+            "date": "14 Şubat 2022",
+            "news": "21-22 Hazırlık Sınıfı Bahar YY Ders Başlangıç"
+        },
+        {
+            "date": "14 Şubat 2022",
+            "news": "21-22 Bahar YY Çift Anadal ve Yandal Başvuru Değerlendirme Sonuçlarının ÖİDB Teslimi Son Gün"
+        },
+        {
+            "date": "14 Şubat 2022 - 18 Şubat 2022",
+            "news": "21-22 Bahar YY Kurum İçi ve Merkezi yerleştirme puanına göre Yatay Geçiş Başvuruları değerlendirme Sonuçları ilanı ve Asil Kayıt Başlangıç"
+        },
+        {
+            "date": "14 Şubat 2022 - 18 Şubat 2022",
+            "news": "21-22 Bahar YY Kurumlararası(GNO) ile Yatay Geçiş Başvuru değerlendirme Sonuç ilanı ve Asil Kayıt Başlangıç"
+        },
+        {
+            "date": "14 Şubat 2022 - 18 Şubat 2022",
+            "news": "21-22 Bahar YY merkezi yerleştirme puanına göre Yatay Geçiş, Kurum içi Yatay Geçiş, Kurumlararası (GNO) Yatay Geçiş Asil Kayıt Bitiş"
+        },
+        {
+            "date": "15 Şubat 2022",
+            "news": "21-22 Bahar YY Çift Anadal ve Yandal Başvuru Değerlendirme Sonuçlarının İlanı ve Asil kayıt başlangıç"
+        },
+        {
+            "date": "16 Şubat 2022",
+            "news": "21-22 Bahar YY Çift Anadal ve Yandal Programına Asil Kayıt Bitiş"
+        },
+        {
+            "date": "17 Şubat 2022",
+            "news": "21-22 Bahar YY Çift Anadal ve Yandal Programına Yedek Kayıt Başlangıç"
+        },
+        {
+            "date": "18 Şubat 2022",
+            "news": "21-22 Bahar YY Kayıt Yenileme ve Ders Kaydı Son gün"
+        },
+        {
+            "date": "18 Şubat 2022",
+            "news": "21-22 Bahar YY Çift Anadal ve Yandal Programına Yedek Kayıt Bitiş"
+        },
+        {
+            "date": "21 Şubat 2022 - 24 Şubat 2022",
+            "news": "21-22 Bahar YY merkezi yerleştirme puanına göre Yatay Geçiş, Kurum içi Yatay Geçiş, Kurumlararası (GNO) Yatay Geçiş Yedek Kayıt Başlangıç ve Bitişi"
+        },
+        {
+            "date": "24 Şubat 2022",
+            "news": "21-22 Bahar YY Atatürk İlkeleri ve İnkılap Tarihi I-II Muafiyet Sınavı"
+        },
+        {
+            "date": "25 Şubat 2022",
+            "news": "21-22 Bahar YY Türkçe I-II Muafiyet Sınavı"
+        },
+        {
+            "date": "07 Mart 2022",
+            "news": "21-22 Bahar YY Ders Ekleme-Ders Bırakma ve Danışman Onayı Başlangıç"
+        },
+        {
+            "date": "11 Mart 2022",
+            "news": "21-22 Bahar YY Ders Ekleme- Ders Bırakma Bitiş"
+        },
+        {
+            "date": "14 Mart 2022",
+            "news": "21-22 Bahar YY Ders Ekleme- Ders Bırakma Danışman Onayı Son Gün"
+        },
+        {
+            "date": "11 Nisan 2022",
+            "news": "21-22 Bahar YY Sınav Prog. Unitime giriş Başlangıç"
+        },
+        {
+            "date": "15 Nisan 2022",
+            "news": "21-22 Bahar YY Sınav Prog. Unitime giriş Bitiş"
+        },
+        {
+            "date": "18 Nisan 2022",
+            "news": "21-22 Bahar YY Dersten Çekilme ve Danışman Onayı Başlangıç"
+        },
+        {
+            "date": "18 Nisan 2022",
+            "news": "Ek Süre Hakkı Kazanmış Önlisans ve Lisans Öğrencileri için BAHAR Yarıyılı (1. Yarıyıl) Sonu 2.ve 4. Sınav Hakkı Başvuruları Başlangıç"
+        },
+        {
+            "date": "18 Nisan 2022",
+            "news": "21-22 Bahar YY Sınav Prog. ORİON giriş Başlangıç"
+        },
+        {
+            "date": "22 Nisan 2022",
+            "news": "21-22 Bahar YY Dersten Çekilme Bitiş"
+        },
+        {
+            "date": "22 Nisan 2022",
+            "news": "Ek Süre Hakkı Kazanmış Önlisans ve Lisans Öğrencileri için BAHAR Yarıyılı (1. Yarıyıl) Sonu 2.ve 4. Sınav Hakkı Başvuruları Bitişi"
+        },
+        {
+            "date": "22 Nisan 2022",
+            "news": "21-22 Bahar YY Sınav Prog. ORİON giriş Bitiş"
+        },
+        {
+            "date": "23 Nisan 2022",
+            "news": "Ulusal Egemenlik Ve Çocuk Bayramı"
+        },
+        {
+            "date": "25 Nisan 2022",
+            "news": "21-22 Bahar YY Dersten Çekilme Danışman Onayı Son Gün"
+        },
+        {
+            "date": "01 Mayıs 2022",
+            "news": "Emek ve Dayanışma Günü / Bayram Arifesi"
+        },
+        {
+            "date": "02 Mayıs 2022 - 4 Mayıs 2022",
+            "news": "Ramazan Bayramı"
+        },
+        {
+            "date": "06 Mayıs 2022",
+            "news": "21-22 Bahar YY Kayıt Dondurma İstekleri Son Gün"
+        },
+        {
+            "date": "09 Mayıs 2022",
+            "news": "22-23 Eğitim-Öğretim Yılı Yabancı Uyruklu Öğrenci (YÖS) Kayıtları"
+        },
+        {
+            "date": "19 Mayıs 2022",
+            "news": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+        },
+        {
+            "date": "25 Mayıs 2022",
+            "news": "21-22 Bahar YY Derslerin Bitişi"
+        },
+        {
+            "date": "25 Mayıs 2022",
+            "news": "21-22 Bahar YY YDB Hazırlık Sınıfı Bahar YY ders Bitişi"
+        },
+        {
+            "date": "26 Mayıs 2022",
+            "news": "21-22 Bahar YY Yarıyıl Sonu Sınavları Başlangıç"
+        },
+        {
+            "date": "26 Mayıs 2022",
+            "news": "Ek süre Hakkı Kazanmış Önlisans ve Lisans Öğrencileri için Bahar Yarıyılı (1.Yarıyıl) Sonu 2.ve 4. Sınav Başlangıç"
+        },
+        {
+            "date": "26 Mayıs 2022",
+            "news": "21-22 Yaz Öğretimi Ders Prog. Unitime Girişi Başlangıç"
+        },
+        {
+            "date": "30 Mayıs 2022",
+            "news": "Ek Süre Hakkı Kazanmış Önlisans ve Lisans Öğrencileri için BAHAR Yarıyılı (1. Yarıyıl) Sonu 2.ve 4. Sınav Bitiş"
+        },
+        {
+            "date": "31 Mayıs 2022 - 1 Haziran 2022",
+            "news": "21-22 Eğitim-Öğretim Yılı Sonu Yabancı Dil Yeterlilik Sınavı"
+        },
+        {
+            "date": "03 Haziran 2022",
+            "news": "21-22 Yaz Öğretimi ders Prog. Unitime Giriş Bitiş"
+        },
+        {
+            "date": "08 Haziran 2022",
+            "news": "21-22 Bahar YY Yarıyıl Sonu Sınavları Bitiş"
+        },
+        {
+            "date": "11 Haziran 2022",
+            "news": "21-22 Bahar YY Yarıyıl Sonu Sınavları Not Girişi Son Gün"
+        },
+        {
+            "date": "12 Haziran 2022",
+            "news": "21-22 Bahar YY Yarıyıl Sonu Sınavları Notu ve GNO İlanı"
+        },
+        {
+            "date": "13 Haziran 2022",
+            "news": "21-22 Bahar YY Başarı Notu İtirazları Başlangıç"
+        },
+        {
+            "date": "13 Haziran 2022",
+            "news": "21-22 Bahar YY Sonu Tek Ders Sınavı Başvuru Başlangıç"
+        },
+        {
+            "date": "13 Haziran 2022",
+            "news": "21-22 Yaz Öğretimi ders programı ORİON giriş Başlangıç"
+        },
+        {
+            "date": "14 Haziran 2022",
+            "news": "21-22 Bahar YY Başarı Notu İtirazları Bitiş"
+        },
+        {
+            "date": "14 Haziran 2022",
+            "news": "21-22 Bahar YY Başarı Notu İtirazları ÖİDB Teslimi Başlangıç"
+        },
+        {
+            "date": "17 Haziran 2022",
+            "news": "21-22 Bahar YY Başarı Notu İtirazları ÖİDB Teslimi Bitiş"
+        },
+        {
+            "date": "18 Haziran 2022",
+            "news": "21-22 Bahar YY Bütünleme Sınavları Başlangıç"
+        },
+        {
+            "date": "18 Haziran 2022",
+            "news": "21-22 Yaz Öğretimi ders programı ORİON giriş Bitiş"
+        },
+        {
+            "date": "23 Haziran 2022",
+            "news": "21-22 Bahar YY Bütünleme Sınavları Bitiş"
+        },
+        {
+            "date": "25 Haziran 2022",
+            "news": "21-22 Bahar YY Bütünleme Sınavları Not Girişi Son Gün 21-22 Bahar YY Sonu Tek Ders Sınavı Başvuru Bitiş"
+        },
+        {
+            "date": "26 Haziran 2022",
+            "news": "21-22 Bahar YY Bütünleme Sınavları Notu ve GNO İlanı"
+        },
+        {
+            "date": "26 Haziran 2022",
+            "news": "21-22 ORİON Bahar YY Bitiş"
+        },
+        {
+            "date": "27 Haziran 2022",
+            "news": "21-22 Bahar YY Bütünleme Sınavları Başarı Notu İtirazları Başlangıç"
+        },
+        {
+            "date": "27 Haziran 2022",
+            "news": "21-22 Yaz Öğretimi ORİON Başlangıç"
+        },
+        {
+            "date": "27 Haziran 2022",
+            "news": "21-22 Yaz Öğretimi Ders Kaydı Başlangıç"
+        },
+        {
+            "date": "28 Haziran 2022",
+            "news": "21-22 Bahar YY Bütünleme Sınavları Başarı Notu İtirazları Bitiş"
+        },
+        {
+            "date": "28 Haziran 2022",
+            "news": "21-22 Bahar YY Bütünleme Sınavları Başarı Notu İtirazları ÖİDB teslimi Başlangıç"
+        },
+        {
+            "date": "30 Haziran 2022",
+            "news": "21-22 Bahar YY Sonu Tek Ders Sınav Günü"
+        },
+        {
+            "date": "01 Temmuz 2022",
+            "news": "21-22 Bahar YY Bütünleme Sınavları Başarı Notu İtirazları ÖİDB teslimi Bitiş"
+        },
+        {
+            "date": "01 Temmuz 2022",
+            "news": "21-22 Yaz Öğretimi Ders Kaydı Bitiş"
+        },
+        {
+            "date": "01 Temmuz 2022",
+            "news": "22-23 Güz YY Kurumlararası (Genel Not Ortalaması ile) Yatay Geçiş Başvuru Başlangıç"
+        },
+        {
+            "date": "01 Temmuz 2022 - 7 Temmuz 2022",
+            "news": "21-22 Mezuniyet Törenleri"
+        },
+        {
+            "date": "02 Temmuz 2022",
+            "news": "21-22 Yaz Öğretiminde açılacak derslerin belirlenmesi"
+        },
+        {
+            "date": "04 Temmuz 2022",
+            "news": "21-22 Yaz Öğretimi Derslerin başlangıcı"
+        },
+        {
+            "date": "04 Temmuz 2022",
+            "news": "21-22 İngilizce Hazırlık Sınıfı Yaz Öğretimi başlangıcı"
+        },
+        {
+            "date": "04 Temmuz 2022",
+            "news": "21-22 Yaz Öğretimi Ders Ekleme-Ders Bırakma Başlangıç"
+        },
+        {
+            "date": "05 Temmuz 2022",
+            "news": "21-22 Yaz Öğretimi Ders Ekleme-Ders Bırakma Bitiş"
+        },
+        {
+            "date": "06 Temmuz 2022",
+            "news": "21-22 Yaz Öğretimi ders seçimi danışman onayı Son Gün"
+        },
+        {
+            "date": "08 Temmuz 2022",
+            "news": "Bayram Arifesi"
+        },
+        {
+            "date": "09 Temmuz 2022 – 12 Temmuz 2022",
+            "news": "Kurban Bayramı"
+        },
+        {
+            "date": "15 Temmuz 2022",
+            "news": "Demokrasi ve Mili Birlik Günü"
+        },
+        {
+            "date": "25 Temmuz 2022",
+            "news": "21-22 Yaz Öğretimi Sınav Prog. UNITIME Girişi Başlangıç"
+        },
+        {
+            "date": "29 Temmuz 2022",
+            "news": "21-22 Yaz Öğretimi Sınav Prog. UNITIME Giriş Bitiş"
+        },
+        {
+            "date": "01 Ağustos 2022",
+            "news": "22-23 Güz YY Merkezi Taban Puan ile Yatay Geçiş ve Kurum İçi Yatay Geçiş Başvuruları Başlangıç"
+        },
+        {
+            "date": "04 Ağustos 2022",
+            "news": "22-23 Güz/ Güz- Bahar DSÜ görevlendirme Son Gün"
+        },
+        {
+            "date": "08 Ağustos 2022",
+            "news": "21-22 Yaz Öğretimi Sınav Prog. ORİON Girişi Başlangıç"
+        },
+        {
+            "date": "12 Ağustos 2022",
+            "news": "21-22 Yaz Öğretimi Sınav Prog. ORİON Girişi Bitiş"
+        },
+        {
+            "date": "15 Ağustos 2022",
+            "news": "22-23 Güz YY Yatay Geçiş Başvuruları (Kurumlararası Yatay Geçiş, Merkezi Taban Puan ile Yatay Geçiş, Kurum içi Yatay Geçiş)Bitiş"
+        },
+        {
+            "date": "22 Ağustos 2022",
+            "news": "22-23 Güz YY Yabancı Dil Yeterlilik Sınav (YDYS) (Sözlü ve Yazılı)"
+        },
+        {
+            "date": "23 Ağustos 2022",
+            "news": "Azami Öğrenim Süresi dolan Önlisans ve Lisans Öğrencileri için 21-22 Eğitim-Öğretim Yılı Ek Sınav Hakkı Başvuruları Başlangıç"
+        },
+        {
+            "date": "25 Ağustos 2022",
+            "news": "21-22 Yaz Öğretimi Derslerin bitişi"
+        },
+        {
+            "date": "25 Ağustos 2022",
+            "news": "21-22 İngilizce Hazırlık Sınıfı Yaz Öğretimi bitişi"
+        },
+        {
+            "date": "26 Ağustos 2022",
+            "news": "21-22 Yaz Öğretimi Sonu Sınavları Başlangıç"
+        },
+        {
+            "date": "30 Ağustos 2022",
+            "news": "Zafer Bayramı"
+        },
+        {
+            "date": "31 Ağustos 2022",
+            "news": "22-23 Güz YY Çift Anadal ve Yandal Programına Başvuru Başlangıç"
+        },
+        {
+            "date": "31 Ağustos 2022",
+            "news": "Azami Öğrenim Süresi dolan Önlisans ve Lisans Öğrencileri için 21-22 Eğitim-Öğretim Yılı Ek Sınav Hakkı Başvuruları Bitiş"
+        },
+        {
+            "date": "31 Ağustos 2022 – 6 Eylül 2022",
+            "news": "22-23 Güz YY Kurumlararası(GNO) ile Yatay Geçiş, Kurum İçi Yatay Geçiş ve Merkezi yerleştirme puanına göre Yatay Geçiş Başvuruları değerlendirme Sonuçları ilanı ile Asil Kayıt Başlangıç ve Bitişi"
+        },
+        {
+            "date": "01 Eylül 2022",
+            "news": "21-22 İngilizce Hazırlık Sınıfı Yaz Öğretimi Yabancı Dil Yeterlilik Sınavı (YDYS)"
+        },
+        {
+            "date": "01 Eylül 2022",
+            "news": "21-22 Yaz Öğretimi Sonu Sınavları Bitiş"
+        },
+        {
+            "date": "03 Eylül 2022",
+            "news": "21-22 Yaz Öğretimi Sonu Sınavlarının Not Girişi Son Gün"
+        },
+        {
+            "date": "04 Eylül 2022",
+            "news": "21 -22 Yaz Öğretimi Sonu Sınavları Notları ve GNO İlanı"
+        },
+        {
+            "date": "04 Eylül 2022",
+            "news": "21-22 ORİON Yaz Öğretimi Bitiş"
+        },
+        {
+            "date": "05 Eylül 2022",
+            "news": "21-22 ORİON Güz YY Başlangıç"
+        },
+        {
+            "date": "05 Eylül 2022",
+            "news": "21-22 Yaz Öğretimi Başarı Notu İtirazları Başlangıç"
+        },
+        {
+            "date": "05 Eylül 2022",
+            "news": "21-22 Yaz Öğretimi Sonu Tek Ders Sınavı Başvuru Başlangıç"
+        },
+        {
+            "date": "05 Eylül 2022",
+            "news": "Azami Öğrenim Süresi dolan Önlisans ve Lisans Öğrencileri için 21-22 Eğitim-Öğretim Yılı 1. Ek Sınav Başlangıç"
+        },
+        {
+            "date": "06 Eylül 2022",
+            "news": "21-22 Yaz Öğretimi Başarı Notu İtirazları Bitiş"
+        },
+        {
+            "date": "06 Eylül 2022",
+            "news": "21-22 Yaz Öğretimi Başarı Notu İtirazları ÖİDB’ye Teslimi Başlangıç"
+        },
+        {
+            "date": "07 Eylül 2022",
+            "news": "Azami Öğrenim Süresi dolan Önlisans ve Lisans Öğrencileri için 21-22 Eğitim-Öğretim Yılı 1. Ek Sınav Bitiş"
+        },
+        {
+            "date": "07 Eylül 2022 - 12 Eylül 2022",
+            "news": "22-23 Güz YY merkezi yerleştirme puanına göre Yatay Geçiş, Kurum içi Yatay Geçiş, Kurumlararası (GNO) Yatay Geçiş Yedek Kayıt Başlangıç ve Bitiş"
+        },
+        {
+            "date": "09 Eylül 2022",
+            "news": "21-22 Yaz Öğretimi Başarı Notu İtirazları ÖİDB’ye Teslimi Bitiş 22-23 Güz YY Çift Anadal ve Yandal Programına Başvuru Bitiş 21-22 Yaz Öğretimi Sonu Tek Ders Sınavı Başvuru Bitiş"
+        },
+        {
+            "date": "12 Eylül 2022",
+            "news": "22-23 Güz YY Kayıt Yenileme ve Ders Kaydı Başlangıç"
+        },
+        {
+            "date": "12 Eylül 2022",
+            "news": "Azami Öğrenim Süresi dolan Önlisans ve Lisans Öğrencileri için 21-22 Eğitim-Öğretim Yılı 2. Ek Sınav Başlangıç 22-23 Güz YY Atatürk İlkeleri ve İnkılap Tarihi I-II Muafiyet Sınavı"
+        },
+        {
+            "date": "13 Eylül 2022",
+            "news": "22-23 Güz YY Çift Anadal ve Yandal Programına Başvuran öğrenciler için Yabancı Dil Yeterlilik Sınavı (YDYS) (Sözlü ve Yazılı)"
+        },
+        {
+            "date": "13 Eylül 2022",
+            "news": "22-23 Eğitim-Öğretim yılı başında öğretim dili İngilizce olan Lisans programlarına yeni kayıt yaptıran öğrenciler için Yabancı Dil Seviye Tespit Sınavı (YDSTS)"
+        },
+        {
+            "date": "13 Eylül 2022",
+            "news": "22-23 Güz YY Türkçe I-II Muafiyet Sınavı"
+        },
+        {
+            "date": "14 Eylül 2022",
+            "news": "22-23 Güz YY Öğretim dili Türkçe olan Önlisans ve Lisans Programlarına yeni kayıt yaptıran öğrenciler için Yabancı Dil Muafiyet Sınavı"
+        },
+        {
+            "date": "14 Eylül 2022",
+            "news": "Azami Öğrenim Süresi dolan Önlisans ve Lisans Öğrencileri için 21-22 Eğitim-Öğretim Yılı 2. Ek Sınav Bitiş"
+        },
+        {
+            "date": "15 Eylül 2022",
+            "news": "22-23 Güz YY Çift Anadal ve Yandal Başvuru değerlendirme Sonuçlarının ÖİDB’ye bildirilmesi 22-23 Yabancı Dil Yeterlilik Sınav (YDYS) (Sözlü)"
+        },
+        {
+            "date": "16 Eylül 2022",
+            "news": "21-22 Yaz Öğretimi Sonu Tek Ders Sınav Günü"
+        },
+        {
+            "date": "16 Eylül 2022",
+            "news": "22-23 Güz YY Çift Anadal ve Yandal Programına Başvuru Sonuç ilanı ve Asil Kayıt Başlangıç 22-23 Yabancı Dil Yeterlilik Sınav (YDYS) (Yazılı)"
+        },
+        {
+            "date": "19 Eylül 2022",
+            "news": "22-23 Güz YY Çift Anadal ve Yandal Programına Asil Kayıt Bitiş"
+        },
+        {
+            "date": "20 Eylül 2022 - 21 Eylül 2022",
+            "news": "22-23 Güz YY Çift Anadal ve Yandal Programına Yedek Kayıt Başlangıç ve Bitiş"
+        },
+        {
+            "date": "26 Eylül 2022",
+            "news": "22-23 Güz YY Ders Başlangıç"
+        },
+        {
+            "date": "28 Eylül 2022 ",
+            "news": "22-23 Üniversite Açılış Töreni"
+        },
+        {
+            "date": "30 Eylül 2022",
+            "news": "22-23 Güz YY Kayıt Yenileme ve Ders Kaydı Son Gün"
+        },
+        {
+            "date": "03 Ekim 2022",
+            "news": "22-23 Güz YY İngilizce Hazırlık Sınıfı Ders Başlangıç"
+        }
+    ]
+}
