@@ -12,7 +12,7 @@ $("#search").on("input", function(){
         $.get('dates.json', function(data) {
             $dat = JSON.parse(data);
             $dat["data"].forEach(element => {
-                if(element["news"].includes(search)){
+                if(element["news"].includes(search) || element["news"].includes(search.toUpperCase()) || element["news"].includes(search.toLowerCase())){
                     $(".bg-shadow").append('<div class="panel">   <h4> ' + element["news"] + ' </h4><br><div class="date"><p> ' + element["date"] + ' </p></div></div>');
                 }
             });
